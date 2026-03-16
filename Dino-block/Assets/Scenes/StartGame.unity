@@ -1263,6 +1263,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4681698675524973434, guid: 5621ae76fd5bcbf49a31bb784103dc49, type: 3}
+      propertyPath: m_Size.x
+      value: 8.362394
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681698675524973434, guid: 5621ae76fd5bcbf49a31bb784103dc49, type: 3}
+      propertyPath: m_Size.y
+      value: 5.827732
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681698675524973434, guid: 5621ae76fd5bcbf49a31bb784103dc49, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.7461991
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681698675524973434, guid: 5621ae76fd5bcbf49a31bb784103dc49, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.5287409
+      objectReference: {fileID: 0}
     - target: {fileID: 7052209911904496665, guid: 5621ae76fd5bcbf49a31bb784103dc49, type: 3}
       propertyPath: m_Name
       value: Dino3.prefab
@@ -2600,6 +2616,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2005050218}
     m_Modifications:
+    - target: {fileID: 4054021398009135790, guid: 447a79b2699715e4cab507cd5c278c2b, type: 3}
+      propertyPath: m_Size.x
+      value: 8.695845
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054021398009135790, guid: 447a79b2699715e4cab507cd5c278c2b, type: 3}
+      propertyPath: m_Size.y
+      value: 7.0326824
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054021398009135790, guid: 447a79b2699715e4cab507cd5c278c2b, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.5079277
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054021398009135790, guid: 447a79b2699715e4cab507cd5c278c2b, type: 3}
+      propertyPath: m_Offset.y
+      value: 1.3914247
+      objectReference: {fileID: 0}
     - target: {fileID: 7863076591882945584, guid: 447a79b2699715e4cab507cd5c278c2b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -92.39928
@@ -3537,6 +3569,22 @@ PrefabInstance:
     - target: {fileID: 211779210849216719, guid: d908c4760aabd4e47bc1000fdc959892, type: 3}
       propertyPath: m_Name
       value: Dino2.prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 269971487415556176, guid: d908c4760aabd4e47bc1000fdc959892, type: 3}
+      propertyPath: m_Size.x
+      value: 7.5614066
+      objectReference: {fileID: 0}
+    - target: {fileID: 269971487415556176, guid: d908c4760aabd4e47bc1000fdc959892, type: 3}
+      propertyPath: m_Size.y
+      value: 5.897126
+      objectReference: {fileID: 0}
+    - target: {fileID: 269971487415556176, guid: d908c4760aabd4e47bc1000fdc959892, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.7607033
+      objectReference: {fileID: 0}
+    - target: {fileID: 269971487415556176, guid: d908c4760aabd4e47bc1000fdc959892, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.9028506
       objectReference: {fileID: 0}
     - target: {fileID: 3158428301856452086, guid: d908c4760aabd4e47bc1000fdc959892, type: 3}
       propertyPath: m_LocalPosition.x
